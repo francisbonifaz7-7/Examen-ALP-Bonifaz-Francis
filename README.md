@@ -11,7 +11,7 @@
 | Variante asignada | **C – promedio mínimo de aprobación: 13** |
 | Lenguaje | Java |
 
-> Si tu variante es otra, cambia solo la constante `LIMITE_APROBACION` en `src/Estudiante.java` y actualiza `docs/CasosDePrueba.md`.
+
 
 ## 2. Descripción del problema
 
@@ -20,7 +20,7 @@ La Universidad Técnica de Ambato necesita un sistema por consola que permita re
 ## 3. Estructura del repositorio
 
 ```
-Examen-ALP-Apellido-Nombre/
+Examen-ALP-Bonifaz-Francis/
 |-- README.md
 |-- src/
 |   |-- Main.java
