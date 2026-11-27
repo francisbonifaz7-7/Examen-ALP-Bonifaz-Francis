@@ -1,0 +1,267 @@
+######## EJECUCION 1 (archivo datos/estudiantes.txt inexistente) ########
+No existe el archivo datos/estudiantes.txt. Se inicia sin registros.
+Registros recuperados: 0
+
+=====================================
+ SISTEMA AULALOGIC
+=====================================
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar estudiante
+4. Generar reporte academico
+5. Guardar registros
+6. Salir
+=====================================
+Seleccione una opcion: 
+--- REPORTE ACADEMICO ---
+No hay estudiantes registrados. No se puede generar el reporte.
+
+=====================================
+ SISTEMA AULALOGIC
+=====================================
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar estudiante
+4. Generar reporte academico
+5. Guardar registros
+6. Salir
+=====================================
+Seleccione una opcion: 
+--- REGISTRAR ESTUDIANTE ---
+Codigo: Nombre completo: Calificacion 1 (0 a 20): Calificacion 2 (0 a 20): Calificacion 3 (0 a 20): Estudiante registrado correctamente.
+
+=====================================
+ SISTEMA AULALOGIC
+=====================================
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar estudiante
+4. Generar reporte academico
+5. Guardar registros
+6. Salir
+=====================================
+Seleccione una opcion: 
+--- REGISTRAR ESTUDIANTE ---
+Codigo: Error: el codigo E001 ya esta registrado. Registro cancelado.
+
+=====================================
+ SISTEMA AULALOGIC
+=====================================
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar estudiante
+4. Generar reporte academico
+5. Guardar registros
+6. Salir
+=====================================
+Seleccione una opcion: 
+--- REGISTRAR ESTUDIANTE ---
+Codigo: Nombre completo: Calificacion 1 (0 a 20): Calificacion 2 (0 a 20): Calificacion 3 (0 a 20): Estudiante registrado correctamente.
+
+=====================================
+ SISTEMA AULALOGIC
+=====================================
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar estudiante
+4. Generar reporte academico
+5. Guardar registros
+6. Salir
+=====================================
+Seleccione una opcion: 
+--- REGISTRAR ESTUDIANTE ---
+Codigo: Nombre completo: Calificacion 1 (0 a 20): Error: la calificacion debe estar entre 0 y 20.
+Calificacion 1 (0 a 20): Calificacion 2 (0 a 20): Calificacion 3 (0 a 20): Estudiante registrado correctamente.
+
+=====================================
+ SISTEMA AULALOGIC
+=====================================
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar estudiante
+4. Generar reporte academico
+5. Guardar registros
+6. Salir
+=====================================
+Seleccione una opcion: 
+--- REGISTRAR ESTUDIANTE ---
+Codigo: Nombre completo: Calificacion 1 (0 a 20): Calificacion 2 (0 a 20): Calificacion 3 (0 a 20): Estudiante registrado correctamente.
+
+=====================================
+ SISTEMA AULALOGIC
+=====================================
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar estudiante
+4. Generar reporte academico
+5. Guardar registros
+6. Salir
+=====================================
+Seleccione una opcion: 
+--- BUSCAR ESTUDIANTE ---
+Codigo a buscar: Codigo: E001
+Nombre: Ana Torres
+Calificaciones: 15, 18, 12
+Promedio: 15.00
+Nota maxima: 18
+Nota minima: 12
+Estado academico: APROBADO
+
+=====================================
+ SISTEMA AULALOGIC
+=====================================
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar estudiante
+4. Generar reporte academico
+5. Guardar registros
+6. Salir
+=====================================
+Seleccione una opcion: 
+--- BUSCAR ESTUDIANTE ---
+Codigo a buscar: No existe un estudiante con el codigo E999.
+
+=====================================
+ SISTEMA AULALOGIC
+=====================================
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar estudiante
+4. Generar reporte academico
+5. Guardar registros
+6. Salir
+=====================================
+Seleccione una opcion: Opcion no valida. Ingrese un numero del 1 al 6.
+
+=====================================
+ SISTEMA AULALOGIC
+=====================================
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar estudiante
+4. Generar reporte academico
+5. Guardar registros
+6. Salir
+=====================================
+Seleccione una opcion: 
+--- LISTADO DE ESTUDIANTES ---
+E001 | Ana Torres | Notas: 15, 18, 12 | Promedio: 15.00 | APROBADO
+E002 | Luis Perez | Notas: 8, 10, 12 | Promedio: 10.00 | REPROBADO
+E003 | Marta Ruiz | Notas: 20, 18, 19 | Promedio: 19.00 | APROBADO
+E004 | Carlos Mena | Notas: 13, 13, 13 | Promedio: 13.00 | APROBADO
+
+=====================================
+ SISTEMA AULALOGIC
+=====================================
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar estudiante
+4. Generar reporte academico
+5. Guardar registros
+6. Salir
+=====================================
+Seleccione una opcion: Registros guardados en datos/estudiantes.txt (4).
+
+=====================================
+ SISTEMA AULALOGIC
+=====================================
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar estudiante
+4. Generar reporte academico
+5. Guardar registros
+6. Salir
+=====================================
+Seleccione una opcion: Saliendo del sistema...
+Registros guardados en datos/estudiantes.txt (4).
+
+######## CONTENIDO DE datos/estudiantes.txt ########
+E001;Ana Torres;15;18;12
+E002;Luis Perez;8;10;12
+E003;Marta Ruiz;20;18;19
+E004;Carlos Mena;13;13;13
+
+######## EJECUCION 2 (reinicio del programa) ########
+Registros recuperados: 4
+
+=====================================
+ SISTEMA AULALOGIC
+=====================================
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar estudiante
+4. Generar reporte academico
+5. Guardar registros
+6. Salir
+=====================================
+Seleccione una opcion: 
+--- LISTADO DE ESTUDIANTES ---
+E001 | Ana Torres | Notas: 15, 18, 12 | Promedio: 15.00 | APROBADO
+E002 | Luis Perez | Notas: 8, 10, 12 | Promedio: 10.00 | REPROBADO
+E003 | Marta Ruiz | Notas: 20, 18, 19 | Promedio: 19.00 | APROBADO
+E004 | Carlos Mena | Notas: 13, 13, 13 | Promedio: 13.00 | APROBADO
+
+=====================================
+ SISTEMA AULALOGIC
+=====================================
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar estudiante
+4. Generar reporte academico
+5. Guardar registros
+6. Salir
+=====================================
+Seleccione una opcion: 
+--- BUSCAR ESTUDIANTE ---
+Codigo a buscar: Codigo: E004
+Nombre: Carlos Mena
+Calificaciones: 13, 13, 13
+Promedio: 13.00
+Nota maxima: 13
+Nota minima: 13
+Estado academico: APROBADO
+
+=====================================
+ SISTEMA AULALOGIC
+=====================================
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar estudiante
+4. Generar reporte academico
+5. Guardar registros
+6. Salir
+=====================================
+Seleccione una opcion: 
+--- REPORTE ACADEMICO ---
+Limite de aprobacion: 13
+Total de estudiantes: 4
+Aprobados: 3
+Reprobados: 1
+Promedio general del curso: 14.25
+Porcentaje de aprobados: 75.00%
+Promedio mas alto: Marta Ruiz (E003) - 19.00
+Promedio mas bajo: Luis Perez (E002) - 10.00
+
+Estudiantes con promedio inferior al general:
+  E002 - Luis Perez (10.00)
+  E004 - Carlos Mena (13.00)
+
+Listado de mayor a menor promedio:
+  1. E003 - Marta Ruiz (19.00) APROBADO
+  2. E001 - Ana Torres (15.00) APROBADO
+  3. E004 - Carlos Mena (13.00) APROBADO
+  4. E002 - Luis Perez (10.00) REPROBADO
+
+=====================================
+ SISTEMA AULALOGIC
+=====================================
+1. Registrar estudiante
+2. Listar estudiantes
+3. Buscar estudiante
+4. Generar reporte academico
+5. Guardar registros
+6. Salir
+=====================================
+Seleccione una opcion: Saliendo del sistema...
+Registros guardados en datos/estudiantes.txt (4).
+
