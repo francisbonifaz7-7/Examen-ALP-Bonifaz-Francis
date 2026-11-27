@@ -6,7 +6,7 @@
 | Universidad | Universidad Técnica de Ambato – FISEI |
 | Carrera | Ingeniería de Software |
 | Asignatura | Algoritmos y Lógica de Programación |
-| Estudiante | **[APELLIDO NOMBRE]** |
+| Estudiante | **BONIFAZ FRANCIS** |
 | Fecha | 27/11/2026 |
 | Variante asignada | **C – promedio mínimo de aprobación: 13** |
 | Lenguaje | Java |
